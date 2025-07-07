@@ -71,6 +71,6 @@ entry_time.pack()
 
 tk.Button(window, text="Start Blocking", command=start_blocking, bg="red", fg="white").pack(pady=20)
 
-tk.Label(window, text="Made with ❤️ in Python", font=("Arial", 9)).pack(side="bottom", pady=5)
+tk.Label(window, text="Made with ❤️ by Naveen", font=("Arial", 11)).pack(side="bottom", pady=5)
 
 window.mainloop()

@@ -6,4 +6,4 @@ An intelligent, cross-platform Python tool to block distracting websites with a 
     - GUI using Tkinter for ease of use
     - Logs each block session to `block_log.txt`
 
-Improtant note : Should run the terminal or any code editor in "Run as Administrator" mode to successfully blocl the websites.    
+Improtant note : Should run the terminal or any code editor in "Run as Administrator" mode to successfully block the websites.    
